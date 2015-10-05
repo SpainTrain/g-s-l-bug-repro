@@ -1,0 +1,15 @@
+{
+  "name": "g-s-l-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "spaintrain <mcspainhower+npm@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-scss-lint": "^0.3.4"
+  }
+}
