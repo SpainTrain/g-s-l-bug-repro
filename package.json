@@ -10,6 +10,6 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-scss-lint": "^0.3.4"
+    "gulp-scss-lint": "0.3.5"
   }
 }
