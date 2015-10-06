@@ -5,6 +5,6 @@ var scsslint = require('gulp-scss-lint');
 
 gulp.task('default', function() {
     return gulp.src('./*.scss')
-        .pipe(scsslint({bundleExec: true}))
+        .pipe(scsslint())
         .pipe(scsslint.failReporter());
 });
